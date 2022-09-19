@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- I create chat-app using react freamwork.
+- I use Sass for styling chat-app
+- I use Firebase for Authentication and Backend
+- I make the UI 
 
-## Available Scripts
+## Demo
+-
 
 In the project directory, you can run:
 
